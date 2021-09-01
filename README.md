@@ -15,7 +15,7 @@ How to use
 - JackListener starts as minimized to tray to open the GUI, double click the tray Icon.
   * Forced Mode (Forced Mode: 1): Forcibly applies the prefered voulme on either mode.
   * Default Mode (Forced Mode: 0): Restores the old state voulme on either mode.
-  * Trigger Interval: Defines the Interval at which the Jack will be checked.(HIGH CPU @ LOW INTERVALS)
+  * Trigger Interval: Defines the Interval at which the Jack will be checked. (HIGH CPU @ LOW INTERVALS)
  
 -----------------------
 How to Trash
